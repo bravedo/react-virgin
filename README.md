@@ -64,7 +64,7 @@ We would love if you can contribute to make this project better. Here's how you 
 
 Basic documentation is available on - https://trixieapp.github.io/react-virgin/
 
-### Todos
+#### Todos
 
  - For Android
  - More components (progress, profile cards coming soon )
